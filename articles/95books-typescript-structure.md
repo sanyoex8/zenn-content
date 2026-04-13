@@ -206,3 +206,4 @@ export type CrossbookConnection = {
 CodeSensei では、この構造化データを使って AI がレッスンを組み立てます。あなたのコードを貼り付けると、95冊の書籍の中から関連する概念を引き出して解説してくれます。
 
 https://codesensei-iota.vercel.app
+
