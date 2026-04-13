@@ -2,7 +2,7 @@
 title: "AIに「リファクタリングして」と頼む前に知るべき5つの原則"
 emoji: "🔧"
 type: "tech"
-topics: ["リファクタリング", "AI", "CleanCode", "typescript", "個人開発"]
+topics: ["refactoring", "ai", "cleancode", "typescript", "nextjs"]
 published: true
 ---
 

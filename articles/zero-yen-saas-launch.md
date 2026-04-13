@@ -2,7 +2,7 @@
 title: "個人開発SaaSを¥0で海外ローンチする完全ガイド — Product Hunt / Show HN 実践編"
 emoji: "🚀"
 type: "idea"
-topics: ["個人開発", "ProductHunt", "マーケティング", "SaaS", "スタートアップ"]
+topics: ["saas", "producthunt", "marketing", "startup", "nextjs"]
 published: true
 ---
 

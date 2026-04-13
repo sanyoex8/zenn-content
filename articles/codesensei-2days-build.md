@@ -2,7 +2,7 @@
 title: "Next.js 16 + Supabase + Claude API で AI学習 SaaS を 2 日で作った話"
 emoji: "📚"
 type: "tech"
-topics: ["nextjs", "supabase", "claude", "typescript", "個人開発"]
+topics: ["nextjs", "supabase", "claude", "typescript", "ai"]
 published: true
 ---
 
