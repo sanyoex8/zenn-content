@@ -278,4 +278,4 @@ AI で開発するのは、もう確実に未来です。生成速度・実装�
 - 📙 [個人開発SaaSを¥0で海外ローンチする完全ガイド](https://zenn.dev/ze1ny/articles/zero-yen-saas-launch)
 - 🔗 CodeSensei: https://codesensei-iota.vercel.app
 
-CodeSensei は今のところ全機能を無料で開放しています。応援課金ボタンも付けてますが、押してほしいのは「使ってみて、応援したい」と思ってくれた時だけで大丈夫です。
+CodeSensei は Free プランから始められます。月 50 回までの AI 会話を試して、必要に応じて Pro / Team にアップグレードできます。

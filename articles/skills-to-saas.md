@@ -212,7 +212,7 @@ understand WHY good code is good, not just point out what's wrong.
 
 1. **Skill / rules は静的なテキスト** — 一度書けば差別化ポイントにならない（誰でも作れる）
 2. **SaaS の本当の価値は動的な部分** — 188レッスンのオーケストレーション、進捗管理、複数本の概念のクロスリンク。これは Skill だけでは再現不可
-3. **Claude Code / Cursor ユーザーに「あ、これ良い」と思ってもらえれば、CodeSensei 本体への入り口になる** — 今は早期アクセスで全機能無料です
+3. **Claude Code / Cursor ユーザーに「あ、これ良い」と思ってもらえれば、CodeSensei 本体への入り口になる** — Free プラン（月 50 回 AI 会話）から試せます
 
 OSS の Skill が「サンプル」、SaaS が「フルセット」、という関係です。
 
