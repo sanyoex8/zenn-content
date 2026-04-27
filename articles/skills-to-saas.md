@@ -1,8 +1,8 @@
 ---
-title: "Claude Skills と Cursor rules を作っているうちに、AI学習SaaSになった話（OSSとして公開しました）"
-emoji: "🪄"
+title: "自分用に作ったClaude Skillsが、AI学習SaaSになった話（OSSとして公開）"
+emoji: "📚"
 type: "tech"
-topics: ["claudecode", "cursor", "ai", "個人開発", "saas"]
+topics: ["claude", "ai", "個人開発", "oss", "saas"]
 published: true
 ---
 
