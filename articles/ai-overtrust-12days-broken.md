@@ -3,7 +3,7 @@ title: "AIに任せきりで作ったSaaSが、ローンチ12日間壊れてい�
 emoji: "💀"
 type: "tech"
 topics: ["ai", "claude", "vercel", "oauth", "個人開発"]
-published: false
+published: true
 ---
 
 
