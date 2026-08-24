@@ -7,7 +7,7 @@ published: true
 ---
 
 :::message
-この記事は [CodeSensei](https://codesensei-iota.vercel.app) の知識ベース構築過程の記録です。
+この記事は [CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) の知識ベース構築過程の記録です。
 :::
 
 ## 問題: 技術書の知識は「散らばっている」
@@ -205,5 +205,5 @@ export type CrossbookConnection = {
 
 CodeSensei では、この構造化データを使って AI がレッスンを組み立てます。あなたのコードを貼り付けると、95冊の書籍の中から関連する概念を引き出して解説してくれます。
 
-https://codesensei-iota.vercel.app
+https://codesensei-shunnosuke-uxs-projects.vercel.app
 

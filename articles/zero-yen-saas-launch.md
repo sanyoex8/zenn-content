@@ -3,11 +3,11 @@ title: "個人開発SaaSを¥0で海外ローンチする完全ガイド — Pro
 emoji: "🚀"
 type: "idea"
 topics: ["saas", "producthunt", "marketing", "startup", "nextjs"]
-published: false
+published: true
 ---
 
 :::message
-この記事は [CodeSensei](https://codesensei-iota.vercel.app) のローンチ準備で実際にやったことをまとめたものです。広告費¥0、1人で全作業を完結しています。
+この記事は [CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) のローンチ準備で実際にやったことをまとめたものです。広告費¥0、1人で全作業を完結しています。
 :::
 
 ## なぜ海外ローンチか
@@ -241,7 +241,7 @@ Zenn記事は **Twitter の引用ツイートで告知** します。
 
 CodeSensei は 4/15 に Product Hunt + Show HN で同時ローンチします。応援していただけると嬉しいです 🙏
 
-https://codesensei-iota.vercel.app
+https://codesensei-shunnosuke-uxs-projects.vercel.app
 
 https://zenn.dev/ze1ny/articles/234e0935faf940
 

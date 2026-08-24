@@ -15,7 +15,7 @@ published: true
 - 自分の学習用に作っていた **「技術書を読むための Claude Skill ライブラリ」** が、ある日 SaaS化のヒントになった
 - 6日で実装、ローンチして 12日後に GitHub OAuth が壊れていることに気づいた（[別記事](https://zenn.dev/ze1ny/articles/ai-overtrust-12days-broken)）
 - そして今日、その**核となる Skill / Cursor rules を OSS（CC BY 4.0）で配布**しました
-- ダウンロードURL: https://codesensei-iota.vercel.app/ja/skill
+- ダウンロードURL: https://codesensei-shunnosuke-uxs-projects.vercel.app/ja/skill
 
 Claude Code / Cursor を使っている個人開発者が、自分のプロジェクトに置くだけで **AIが「コードレビュアー」から「学習パートナー」に変わる** 設定ファイル一式です。
 
@@ -23,7 +23,7 @@ Claude Code / Cursor を使っている個人開発者が、自分のプロジ�
 
 ## なぜこれを作ったか
 
-僕は2026年4月15日に [CodeSensei](https://codesensei-iota.vercel.app) という AI学習SaaSをローンチしました。
+僕は2026年4月15日に [CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) という AI学習SaaSをローンチしました。
 ただ、このプロダクトは「最初から SaaSを作ろう」と思って作ったものではありません。
 
 元になっているのは、**自分が技術書を学ぶために週末に作っていた、小さな Claude Skill ライブラリ** です。
@@ -126,7 +126,7 @@ CodeSensei の本当の価値は、SaaS としての:
 
 ## 配布物
 
-https://codesensei-iota.vercel.app/ja/skill
+https://codesensei-shunnosuke-uxs-projects.vercel.app/ja/skill
 
 から2種類ダウンロードできます。
 
@@ -237,7 +237,7 @@ Skill は **「AI に対する社内ドキュメント」** のような立ち�
 - 自分用に作った Claude Skill ライブラリが、結果として SaaS の核になった
 - ローンチ後、その核を OSS で配布することにした
 - Claude Code 用 `CLAUDE.md` と Cursor 用 `.cursorrules` を CC BY 4.0 で公開
-- ダウンロード: https://codesensei-iota.vercel.app/ja/skill
+- ダウンロード: https://codesensei-shunnosuke-uxs-projects.vercel.app/ja/skill
 
 「自分のために作ったツール」と「他人にも届けるプロダクト」の境界線は、思ったより薄いです。
 あなたが今、Claude Code や Cursor のために整えている Skill / rules も、もしかしたら誰かのプロダクトの種かもしれません。
@@ -249,4 +249,4 @@ Skill は **「AI に対する社内ドキュメント」** のような立ち�
 - ローンチ後の事故: [AIに任せきりで作ったSaaSが、ローンチ12日間壊れていた話](https://zenn.dev/ze1ny/articles/ai-overtrust-12days-broken)
 - [リファクタリング前に知るべき5つの原則](https://zenn.dev/ze1ny/articles/refactoring-5-principles)
 - [個人開発SaaSを¥0で海外ローンチする完全ガイド](https://zenn.dev/ze1ny/articles/zero-yen-saas-launch)
-- 🔗 CodeSensei: https://codesensei-iota.vercel.app
+- 🔗 CodeSensei: https://codesensei-shunnosuke-uxs-projects.vercel.app

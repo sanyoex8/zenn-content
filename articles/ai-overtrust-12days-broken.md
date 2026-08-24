@@ -14,7 +14,7 @@ published: true
 
 ## はじめに
 
-2026年4月15日に [CodeSensei](https://codesensei-iota.vercel.app) というサービスをローンチしました。プログラミング書籍95冊の知見をベースに、AIが「あなたのコード」を題材に技術概念を解説する、AI学習プラットフォームです。
+2026年4月15日に [CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) というサービスをローンチしました。プログラミング書籍95冊の知見をベースに、AIが「あなたのコード」を題材に技術概念を解説する、AI学習プラットフォームです。
 
 着想から本番デプロイまで6日。生成のほとんどは Claude Code が担当しました。
 ローンチ当日、僕は DEVLOG にこう書きました。
@@ -276,6 +276,6 @@ AI で開発するのは、もう確実に未来です。生成速度・実装�
 - 📚 母艦: [プログラミング未経験の事務員だった僕が、AI学習SaaSを作るまでの話](https://zenn.dev/ze1ny/articles/story-zero-to-codesensei)
 - 📗 [AIに「リファクタリングして」と頼む前に知るべき5つの原則](https://zenn.dev/ze1ny/articles/refactoring-5-principles)
 - 📙 [個人開発SaaSを¥0で海外ローンチする完全ガイド](https://zenn.dev/ze1ny/articles/zero-yen-saas-launch)
-- 🔗 CodeSensei: https://codesensei-iota.vercel.app
+- 🔗 CodeSensei: https://codesensei-shunnosuke-uxs-projects.vercel.app
 
 CodeSensei は Free プランから始められます。月 50 回までの AI 会話を試して、必要に応じて Pro / Team にアップグレードできます。

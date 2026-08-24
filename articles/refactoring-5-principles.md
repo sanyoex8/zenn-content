@@ -7,7 +7,7 @@ published: true
 ---
 
 :::message
-この記事は [CodeSensei](https://codesensei-iota.vercel.app) の開発を通じて学んだことをベースにしています。
+この記事は [CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) の開発を通じて学んだことをベースにしています。
 :::
 
 ## AIに「きれいにして」は危険
@@ -147,6 +147,6 @@ AI にコードを任せる時代だからこそ、「なぜそう変えるの�
 
 CodeSensei では、あなたのコードを貼り付けるだけで AI がこれらの原則を「体感」させてくれます。読むだけじゃなく、自分のコードで学ぶ — それが一番早い方法です。
 
-https://codesensei-iota.vercel.app
+https://codesensei-shunnosuke-uxs-projects.vercel.app
 
 <!-- deploy trigger -->

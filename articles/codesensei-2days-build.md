@@ -3,11 +3,11 @@ title: "Next.js 16 + Supabase + Claude API で AI学習 SaaS を 2 日で作っ�
 emoji: "📚"
 type: "tech"
 topics: ["nextjs", "supabase", "claude", "typescript", "ai"]
-published: false
+published: true
 ---
 
 :::message
-この記事は [CodeSensei](https://codesensei-iota.vercel.app) の開発記録です。個人開発で、着想から本番デプロイまで2日間で Phase 1〜3 + ユーザー獲得施策までを一気に構築しました。技術選定と「早く出す」ための意思決定を共有します。
+この記事は [CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) の開発記録です。個人開発で、着想から本番デプロイまで2日間で Phase 1〜3 + ユーザー獲得施策までを一気に構築しました。技術選定と「早く出す」ための意思決定を共有します。
 :::
 
 ## 何を作ったか
@@ -19,7 +19,7 @@ published: false
 - 「コードから学ぶ」「バグから学ぶ」「カスタムカリキュラム」など AI 機能を 5 種類搭載
 - 日本語 + 英語の i18n、チーム機能、Stripe 決済まで実装済み
 
-https://codesensei-iota.vercel.app
+https://codesensei-shunnosuke-uxs-projects.vercel.app
 
 ## なぜ作ったか
 
@@ -247,13 +247,13 @@ Phase 1 で絶対必要なものだけ、Phase 2 は補完、Phase 3 は収益�
 
 CodeSensei は Free プランで月 50 回 AI 会話を試せます（Pro / Team も提供中）。試してみて、感想をリプライや DM でいただけると嬉しいです。
 
-https://codesensei-iota.vercel.app
+https://codesensei-shunnosuke-uxs-projects.vercel.app
 
 読んでいただきありがとうございました 🙏
 
 ---
 
 **関連リンク**
-- [CodeSensei 本体](https://codesensei-iota.vercel.app)
+- [CodeSensei 本体](https://codesensei-shunnosuke-uxs-projects.vercel.app)
 - [GitHub (private)](https://github.com/sanyoex8/codesensei)
-- [ブログ（CodeSensei 内）](https://codesensei-iota.vercel.app/blog)
+- [ブログ（CodeSensei 内）](https://codesensei-shunnosuke-uxs-projects.vercel.app/blog)

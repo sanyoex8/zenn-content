@@ -8,7 +8,7 @@ published: true
 
 ## はじめに
 
-今日、[CodeSensei](https://codesensei-iota.vercel.app) という AI 学習サービスをローンチしました。
+今日、[CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) という AI 学習サービスをローンチしました。
 
 でもこれは、元「プログラミング完全未経験・普通の事務員」だった僕が、AIと一緒に2ヶ月走り続けた末に行き着いた場所の話です。
 
@@ -285,7 +285,7 @@ AIは優秀な共同開発者でしたが、「何を作るか」を決めるの
 
 ## CodeSensei でできること
 
-[CodeSensei](https://codesensei-iota.vercel.app) は、こんなサービスです。
+[CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) は、こんなサービスです。
 
 1. **自分のコード（または GitHub リポジトリ）を貼り付ける**
 2. **15 コース・188 レッスンの中から学びたいテーマを選ぶ**
@@ -331,7 +331,7 @@ CodeSensei は、その時の自分のために作ったサービスです。
 3. **本は買うだけじゃなく、自分のコードと並べて読む**。例だけ追っても、知識は身につかない。
 4. **作りかけでもいいから人に見せる**。今日この記事を書いていることが、まさにその実践です。
 
-そして、もし「なぜこのコードはこう書くの？」がモヤモヤしているなら、ぜひ [CodeSensei](https://codesensei-iota.vercel.app) を触ってみてください。
+そして、もし「なぜこのコードはこう書くの？」がモヤモヤしているなら、ぜひ [CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) を触ってみてください。
 
 **Free プランから始められます**（月 50 回までの AI 会話、クレジットカード不要）。
 
@@ -370,7 +370,7 @@ CodeSensei は、その時の自分のために作ったサービスです。
 
 質問・感想、コメントで歓迎です。同じ立場の方と繋がりたいです。
 
-- **CodeSensei**: https://codesensei-iota.vercel.app
+- **CodeSensei**: https://codesensei-shunnosuke-uxs-projects.vercel.app
 - **Twitter**: [@shun1122842](https://twitter.com/shun1122842)
 
 ---

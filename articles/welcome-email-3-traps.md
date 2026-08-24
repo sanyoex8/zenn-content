@@ -24,7 +24,7 @@ published: true
 
 ## 背景: 何を作りたかったか
 
-[CodeSensei](https://codesensei-iota.vercel.app) のサインアップ完了後、ユーザーに「最初の5分の歩き方」を案内するwelcomeメールを送りたい。要件は地味:
+[CodeSensei](https://codesensei-shunnosuke-uxs-projects.vercel.app) のサインアップ完了後、ユーザーに「最初の5分の歩き方」を案内するwelcomeメールを送りたい。要件は地味:
 
 - Resend で送る
 - 1ユーザーにつき1通だけ
@@ -234,4 +234,4 @@ Resend Free tier は 1ドメイン制限なので、追加で verify するな�
 - [AIに任せきりで作ったSaaSが、ローンチ12日間壊れていた話](https://zenn.dev/ze1ny/articles/ai-overtrust-12days-broken)
 - [自分用に作ったClaude Skillsが、AI学習SaaSになった話](https://zenn.dev/ze1ny/articles/skills-to-saas)
 - [個人開発SaaSを¥0で海外ローンチする完全ガイド](https://zenn.dev/ze1ny/articles/zero-yen-saas-launch)
-- 🔗 CodeSensei: https://codesensei-iota.vercel.app
+- 🔗 CodeSensei: https://codesensei-shunnosuke-uxs-projects.vercel.app
